@@ -1,3 +1,6 @@
+### Bazel work
+Please see my work on different fork repository in bazel-python brach: https://github.com/beginningineer/microservices-demo/tree/bazel-python as there is **only my first commit**
+
 # Hipster Shop: Cloud-Native Microservices Demo Application
 
 This project contains a 10-tier microservices application. The application is a
